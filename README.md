@@ -31,7 +31,7 @@ ___
     <th>
      <img align="center" width="350" height="200" img src= "https://watermelon.crd.co/assets/images/gallery16/d4ec844f.gif?v=e2e5e274"> <br>
       <div align="left">
-        <img src="https://pixels.crd.co/assets/images/gallery148/73105bde.gif?v=29416114">
+        <img src="https://pix.crd.co/assets/images/gallery20/2f653096.gif?v=c10c78ee">
         - hi i'm sergei, i'm 18 nd i use he/him <br>
         - int with me on pony town pls !!<br>
         - feel free to cud me! ^__^ <br>
