@@ -17,7 +17,8 @@
 ___
 
 
-<img align="left" width="300" height="500" alt="brendon_urie_ilovemygf" src="https://github.com/user-attachments/assets/e186b594-98c7-4586-84bf-c94235d20c36">
+<img align="left" width="300" height="500" alt="uhh_dude" src="https://github.com/user-attachments/assets/3090146c-44af-48af-9fd4-2b2e7dac3969" />
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=New+Rocker&duration=4000&pause=1000&color=858585&vCenter=true&width=435&lines='cause+she+tastes+like+you%2C;only+sweeter.+%E2%99%A1)](https://git.io/typing-svg)
 
